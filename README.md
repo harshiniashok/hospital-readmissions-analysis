@@ -4,7 +4,7 @@ being readmitted within 30 days?**
 
 Using real hospital data from 130 US hospitals, this project 
 analyzes patient demographics, visit history, and clinical 
-factors to uncover what drives early readmissions — a key 
+factors to uncover what drives early readmissions, a key 
 quality metric that directly affects hospital funding and 
 patient outcomes.
 
@@ -24,7 +24,7 @@ patient outcomes.
 
 **Age:**
 - Surprisingly, the 20–30 age group had the *highest* 
-readmission rate at 14.2% — higher than any elderly group
+readmission rate at 14.2% - higher than any elderly group
 - The 80–90 group followed at 12.1%, suggesting both young 
 and very elderly diabetic patients need closer post-discharge 
 monitoring
@@ -32,7 +32,7 @@ monitoring
 
 **Prior Hospital Visits — the strongest predictor:**
 - Patients with 3 or more prior inpatient visits had a 
-readmission rate of **25.7%** — more than 2.5x the rate of 
+readmission rate of **25.7%** -more than 2.5x the rate of 
 patients with fewer visits (10.1%)
 - This is the single most actionable insight: prior visit 
 history is a strong flag for intervention
@@ -40,10 +40,10 @@ history is a strong flag for intervention
 **Hospital Stay Length:**
 - Readmitted patients averaged **4.8 days** per stay vs 
 4.3 days for non-readmitted patients
-- A longer stay did not prevent readmission — suggesting 
+- A longer stay did not prevent readmission, suggesting 
 discharge planning quality matters more than stay duration
 
-**Gender:** Nearly identical rates — Female 11.2% vs Male 
+**Gender:** Nearly identical rates- Female 11.2% vs Male 
 11.1% — gender is not a meaningful predictor here
 
 **Race:** Minimal variation across groups (9.6%–11.3%), 
